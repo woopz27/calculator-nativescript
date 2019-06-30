@@ -175,6 +175,7 @@
     .home-panel {
         vertical-align: top;
         font-size: 20;
+        background-color: black;
     }
 
     .output {
@@ -184,6 +185,7 @@
         height: 200;
         padding-top: 160;
         padding-right: 10;
+        color:white;
     }
 
     .input {
@@ -192,7 +194,7 @@
 
     .button {
         background-color: black;
-        color: #ffffff;
+        color: orange;
         width: 70;
         height: 70;
     }

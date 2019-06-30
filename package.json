@@ -10,9 +10,6 @@
         },
         "tns-ios": {
             "version": "5.4.0"
-        },
-        "playground": {
-            "id": "1751594124.1560083502"
         }
     },
     "dependencies": {
